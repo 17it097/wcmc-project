@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: github.hellocsl:CursorWheelLayout:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d00a0c0fcf9d3106cc8cf4654c17aa3/CursorWheelLayout-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d00a0c0fcf9d3106cc8cf4654c17aa3/CursorWheelLayout-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/github.hellocsl/CursorWheelLayout/1.1.0/44e538633df1f392fc6dea388ad412f627ced5e7/CursorWheelLayout-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/github.hellocsl/CursorWheelLayout/1.1.0/91c1be105fbc51bb84e50648addb867347b8492f/CursorWheelLayout-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

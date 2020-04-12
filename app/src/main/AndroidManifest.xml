@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.a17it097">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/llogo"
+        android:label="17it097"
+        android:roundIcon="@drawable/llogo"
+        android:supportsRtl="true"
+        tools:replace="android:label"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name="com.example.a17it097.load"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name="com.example.a17it097.Editext"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name="com.example.a17it097.wheel"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name="com.example.a17it097.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
